@@ -1,5 +1,5 @@
 # The Hunter 
-Survival game for andoid phones.
+Survival game for android phones.
 
 ## Game Overview
 ### Description
